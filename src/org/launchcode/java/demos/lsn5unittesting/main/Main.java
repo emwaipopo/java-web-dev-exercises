@@ -1,5 +1,7 @@
 package org.launchcode.java.demos.lsn5unittesting.main;
 
+import org.launchcode.java.demos.lsn5unittesting.main.Car;
+
 public class Main {
 
     public static void main(String[] args) {
